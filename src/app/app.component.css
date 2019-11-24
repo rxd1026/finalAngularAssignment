@@ -1,0 +1,10 @@
+nav a {
+    padding: 10px;
+    font-size: xx-large;
+}
+
+nav a :active{
+    color:red;
+    font-size: xx-large;
+}
+
